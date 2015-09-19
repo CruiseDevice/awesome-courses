@@ -700,3 +700,4 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
 - [CSc 5802](http://web.mst.edu/~ercal/387/387.html) **Introduction to Parallel programming and  Algorithms**
+
