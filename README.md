@@ -701,3 +701,4 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- The course site contains links to the lecture videos, reading material and assignments.
 
 - [CSc 5802](http://web.mst.edu/~ercal/387/387.html) **Introduction to Parallel programming and  Algorithms**
+
